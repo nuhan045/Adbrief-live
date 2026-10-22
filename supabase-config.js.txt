@@ -1,0 +1,4 @@
+window.ADBRIEF_CONFIG = {
+  supabaseUrl: 'https://nniatorfvroogcjhluyv.supabase.co',
+  supabasePublishableKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5uaWF0b3JmdnJvb2djamhsdXl2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI2MzY5NzAsImV4cCI6MjEwODIxMjk3MH0.9nYUy6TucVwSo91A7NFLSzxmBq9aL9MOKT14Vx8Zqhk'
+};
